@@ -1,4 +1,4 @@
-# ESTUDO-BOVA11
+# ESTUDO - INDFUT
 Esse repositório irá trazer alguns dados estatísticos de uma base de dados extraída do Profitchart Pro.
 
 
