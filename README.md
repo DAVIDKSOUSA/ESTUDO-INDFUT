@@ -1,2 +1,5 @@
 # ESTUDO-BOVA11
-Esse repositório irá trazer alguns dados estatísticos de uma base de dados estrada do Profitchart Pro da ETF BOVA11.
+Esse repositório irá trazer alguns dados estatísticos de uma base de dados extraída do Profitchart Pro.
+
+
+Inicialmente irei extrair da base de dados do Profitchart Pro as cotações da INDFUT.
